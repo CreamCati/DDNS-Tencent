@@ -10,9 +10,9 @@ var SecretId = ""
 
 var SecretKey = ""
 
-//var SecretId = "AKIDKSKwHL8fwwf7JEsFLBk12nHUQ5TZPxFG"
+//var SecretId = "AKIDKSKwHL12nHUQ5TZPxFG"
 //
-//var SecretKey = "lFTQ6VeX9UYMt86oFPIuFJ5brqOffOq1"
+//var SecretKey = "lFTQ6VeXuFJ5brqOffOq1"
 
 var TencentApi = "dnspod.tencentcloudapi.com"
 
